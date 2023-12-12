@@ -9,7 +9,6 @@
 - 📫 Como chegar até mim; Email: sanderluciansander2015@gmail.com ...
 - 💾 Old Git: @LucianSander
 - 💾 Antigo Git: @LucianSander
-##
 <div style="display: inline_block"><br>
   <img align="center" alt="Lu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
